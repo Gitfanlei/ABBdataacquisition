@@ -1,0 +1,30 @@
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\ControllerAPI.Form1.resources
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\ControllerAPI.Form1.resources
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ControllerAPI.exe.config
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ControllerAPI.exe
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\Newtonsoft.Json.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.CopyComplete
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\ControllerAPI.exe
+C:\Users\81949\Desktop\数据采集软件 修改版集合\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ABB.Robotics.Controllers.PC.xml
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ControllerAPI.exe.config
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ControllerAPI.exe
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\Newtonsoft.Json.dll
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\RobotStudio.Services.RobApi.dll
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\ABB.Robotics.Controllers.PC.xml
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\bin\Release\Newtonsoft.Json.xml
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\ControllerAPI.Form1.resources
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\CreateController.csproj.CopyComplete
+C:\Users\81949\Desktop\毕设程序3.30\ABB ControllerAPI  FL\ControllerAPI\ControllerAPI\CreateController\obj\Release\ControllerAPI.exe

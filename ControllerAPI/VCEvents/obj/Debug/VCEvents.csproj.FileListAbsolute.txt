@@ -1,0 +1,32 @@
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\bin\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\bin\Debug\VCEvents.cs.pdb
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\CapiDevTest\CapiDevTest\VCEvents\obj\Debug\VCEvents.cs.pdb
+C:\Official\Developer Tools - Power Tools\CapiDevTest\CapiDevTest\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\Official\Developer Tools - Power Tools\CapiDevTest\CapiDevTest\VCEvents\obj\Debug\VCEvents.cs.pdb
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.pdb
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.exe
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.pdb
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\Official\Developer Tools - Power Tools\TFS\Development\SourceCode\RSContent\DevTopics\DSP_Conceptual\Addins\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.pdb
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.pdb
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.pdb
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\Users\inabpm\Desktop\Downloads - Updated with License Text\Downloads - Updated with License Text\Addins\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.pdb
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.exe
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\VCEvents.cs.pdb
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\bin\Debug\ABB.Robotics.Adapters.IRC5.dll
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.exe
+C:\ABB\WorkingFolder\ControllerAPI\ControllerAPI\ControllerAPI\VCEvents\obj\Debug\VCEvents.cs.pdb

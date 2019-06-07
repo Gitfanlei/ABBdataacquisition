@@ -1,0 +1,180 @@
+
+<!-- saved from url=(0103)http://developercenter.robotstudio.com/RobotCommunication/html/0cd79969-87c0-4b5e-9352-3a21e7a600b5.htm -->
+<html xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="save" content="history">
+    <title>Accessing Controller Data</title>
+    <link rel="stylesheet" type="text/css" href="./Accessing Controller Data_files/Presentation.css">
+    <link rel="stylesheet" type="text/css" href="ms-help://Hx/HxRuntime/HxLink.css">
+    <link rel="stylesheet" type="text/css" href="ms-help://Dx/DxRuntime/DxLink.css">
+    <script type="text/javascript" src="./Accessing Controller Data_files/EventUtilities.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/SplitScreen.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/Dropdown.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/script_manifold.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/LanguageFilter.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/DataStore.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/CommonUtilities.js"> </script>
+    <script type="text/javascript" src="./Accessing Controller Data_files/MemberFilter.js"> </script>
+    </head><body><xml>
+      <mshelp:toctitle title="Accessing Controller Data">
+      <mshelp:keyword index="A" term="0cd79969-87c0-4b5e-9352-3a21e7a600b5">
+      <mshelp:attr name="RevisionNumber" value="1">
+      <mshelp:attr name="AssetID" value="0cd79969-87c0-4b5e-9352-3a21e7a600b5">
+      <mshelp:attr name="Abstract" value="The walkthrough provides with multiple examples on how to access controller data. The sections below describes each of the example.">
+      <mshelp:attr name="TopicType" value="kbHowTo">
+      <mshelp:attr name="Locale" value="en-us">
+    </mshelp:attr></mshelp:attr></mshelp:attr></mshelp:attr></mshelp:attr></mshelp:keyword></mshelp:toctitle></xml>
+  
+  
+    <input type="hidden" id="userDataCache" class="userDataStyle">
+    <input type="hidden" id="hiddenScrollOffset">
+    <img id="collapseImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/collapse_all.gif" alt="Collapse image" title="Collapse image">
+    <img id="expandImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/expand_all.gif" alt="Expand Image" title="Expand Image">
+    <img id="collapseAllImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/collall.gif" alt="CollapseAll image" title="CollapseAll image">
+    <img id="expandAllImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/expall.gif" alt="ExpandAll image" title="ExpandAll image">
+    <img id="dropDownImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_unselected.gif" alt="DropDown image" title="DropDown image">
+    <img id="dropDownHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_unselected_hover.gif" alt="DropDownHover image" title="DropDownHover image">
+    <img id="copyImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/copycode.gif" alt="Copy image" title="Copy image">
+    <img id="copyHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/copycodeHighlight.gif" alt="CopyHover image" title="CopyHover image">
+    <img id="checkBoxSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/ch_selected.gif">
+    <img id="checkBoxUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/ch_unselected.gif">
+    <img id="checkBoxSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/ch_selected_hover.gif">
+    <img id="checkBoxUnSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/ch_unselected_hover.gif">
+    <img id="radioSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/r_select.gif">
+    <img id="radioUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/r_unselect.gif">
+    <img id="radioSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/r_select_hover.gif">
+    <img id="radioUnSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/r_unselect_hover.gif">
+    <img id="curvedLeftSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_sel_lft_cnr.gif">
+    <img id="curvedRightSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_sel_rt_cnr.gif">
+    <img id="curvedLeftUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_unsel_lft_cnr.gif">
+    <img id="curvedRightUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_unsel_rt_cnr.gif">
+    <img id="gradLeftSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_sel_lft_grad.gif">
+    <img id="gradRightSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_sel_rt_grad.gif">
+    <img id="gradLeftUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_unsel_lft_grad.gif">
+    <img id="gradRightUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/tab_unsel_rt_grad.gif">
+    <img id="twirlSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_selected.gif">
+    <img id="twirlUnSelectImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_unselected.gif">
+    <img id="twirlSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_selected_hover.gif">
+    <img id="twirlUnSelectHoverImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/twirl_unselected_hover.gif">
+    <img id="NSRBottomImage" style="display:none; height:0; width:0;" src="./Accessing Controller Data_files/NSRbottomgrad.gif">
+    <div id="header">
+      <table id="topTable">
+        <tbody><tr id="headerTableRow3">
+          <td>
+        </td></tr>
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText">
+          </span></td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">Accessing Controller Data</span>
+          </td>
+        </tr>
+        <tr>
+          <td class="nsrBottom">
+        </td></tr>
+      </tbody></table>
+    </div>
+    <div id="mainSection">
+      <div id="mainBody">
+        <div id="allHistory" class="saveHistory" onsave="saveAll()" onload="loadAll()">
+        <span style="color: DarkGray"></span>
+        <div class="introduction">
+          <p>
+          	The walkthrough provides with multiple examples on how to access controller data. The 
+          	sections below describes each of the example.
+        </p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0EFAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0EFAAA, event)" tabindex="0">
+            <img id="sectionToggleID0EFAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">Download</span>
+        </h1>
+        <div id="sectionSectionID0EFAAA" class="section" name="collapseableSection" style="">
+        Click here to         
+        <a href="http://developercenter.robotstudio.com/Downloads/RobotCommunication/Walkthroughs/ControllerAPI.zip" title="download accessing controller data example" target="_blank">download</a></div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0EEAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0EEAAA, event)" tabindex="0">
+            <img id="sectionToggleID0EEAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">Create Controller</span>
+        </h1>
+        <div id="sectionSectionID0EEAAA" class="section" name="collapseableSection" style="">
+          <p>
+        A controller object is created in the following two ways. Creating a controller
+        object is an entry point to accessing controller data.
+         </p><ul><li>Using Network Scanner, which scans the network and returns a list of controllers.</li><li>Using Controller Guid.</li></ul><p></p>
+          <p>
+		   Output of this example looks as shown below:
+		</p>
+          <div class="mediaCenter">
+            <img alt="Create Controller" src="./Accessing Controller Data_files/CreateController.png">
+            <div class="caption">
+              <span class="captionLead">Figure 1:</span>Create Controller</div>
+          </div>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0EDAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0EDAAA, event)" tabindex="0">
+            <img id="sectionToggleID0EDAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">NetDumpRapid</span>
+        </h1>
+        <div id="sectionSectionID0EDAAA" class="section" name="collapseableSection" style="">
+          <p>This example explains the procedure to retrieve 
+		  all routine names from the Rapid Module. 
+		  </p><ol><li>
+                All the tasks are retrieved from controller Rapid.
+               </li><li>
+                All the modules are then retrieved from each Tasks from controller Rapid.
+                
+               </li><li>
+                Each Routine is then traced from the Module and printed out on the console.
+                <div class="mediaCenter"><img alt="Net Dump Rapid" src="./Accessing Controller Data_files/NetDumpRapid.png"><div class="caption"><span class="captionLead">Figure 2:</span>NetDumpRapid</div></div></li></ol><p></p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0ECAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0ECAAA, event)" tabindex="0">
+            <img id="sectionToggleID0ECAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">VirtualController Events</span>
+        </h1>
+        <div id="sectionSectionID0ECAAA" class="section" name="collapseableSection" style="">
+          <p>This example explains the procedure to retrieve 
+		  all routine names from the Rapid Module. 
+		  </p><ol><li>
+                A virtual Controller is retrieved using a network scanner.
+               </li><li>
+                Subscribe the controller to the OperationModeChanged Event,                 
+               </li><li>
+                A mode change on the Virtual FlexPendant, 
+                will trigger the changed mode event  on the controller OperationModeChanged  method.
+                <div class="mediaCenter"><img alt="Virtual Controller Events" src="./Accessing Controller Data_files/VirtualControllerEvents.png"><div class="caption"><span class="captionLead">Figure 3:</span>VirtualController Events</div></div></li></ol><p></p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0EBAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0EBAAA, event)" tabindex="0">
+            <img id="sectionToggleID0EBAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">Required Namespaces</span>
+        </h1>
+        <div id="sectionSectionID0EBAAA" class="section" name="collapseableSection" style="">
+          <p>
+            <span sdata="cer" target="N:ABB.Robotics">
+              <a href="http://developercenter.robotstudio.com/RobotCommunication/html/7d38d346-5326-6659-a5fb-dc68ea1e6fb2.htm">ABB.Robotics</a>
+            </span>
+          </p>
+          <p>
+            <span sdata="cer" target="N:ABB.Robotics.Controllers">
+              <a href="http://developercenter.robotstudio.com/RobotCommunication/html/45d81439-a0e2-8142-7aec-d479d28e6c4a.htm">ABB.Robotics.Controllers</a>
+            </span>
+          </p>
+        </div>
+        <h1 class="heading">
+          <span onclick="ExpandCollapse(sectionToggleID0EAAAA)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(sectionToggleID0EAAAA, event)" tabindex="0">
+            <img id="sectionToggleID0EAAAA" class="toggle" name="toggleSwitch" src="./Accessing Controller Data_files/collapse_all.gif">Download</span>
+        </h1>
+        <div id="sectionSectionID0EAAAA" class="section" name="collapseableSection" style="">
+        Click here to 
+        
+        <a href="http://developercenter.robotstudio.com/Downloads/RobotCommunication/Walkthroughs/ControllerAPI.zip" title="download accessing controller data example" target="_blank">download</a></div>
+        <div id="footer">
+          <div class="footerLine">
+            <img width="100%" height="3px" src="./Accessing Controller Data_files/footer.gif" alt="Footer image" title="Footer image">
+          </div>
+          <div> Robot Communication Developer Center  |  This content is licensed. For details and restrictions, see the  <a href="http://developercenter.robotstudio.com/ContentLicense.htm">Content License</a></div>
+        </div>
+      </div>
+    </div>
+  
+</div></body></html>

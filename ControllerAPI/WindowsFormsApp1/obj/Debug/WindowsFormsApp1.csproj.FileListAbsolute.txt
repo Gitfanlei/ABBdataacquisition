@@ -1,0 +1,30 @@
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\81949\Downloads\ControllerAPI\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.dll
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\RobotStudio.Services.RobApi.dll
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\81949\Desktop\ControllerAPI  FL\ControllerAPI\ControllerAPI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
